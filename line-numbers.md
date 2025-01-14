@@ -6,11 +6,8 @@ hello 5
 #### 6
 I like books
 #### 8
-
 GitHub is really good.
-
 GitHub is awesomegit
-
 #### 10
 #### 11
 #### 12
