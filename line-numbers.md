@@ -4,9 +4,9 @@ william was here 3
 #### 4
 hello 5
 #### 6
-I like books 
+I like books
 #### 8
-#### 9
+GitHub is awesomegit
 #### 10
 #### 11
 #### 12
